@@ -1,7 +1,7 @@
 ## Hi there, nice to meet you 👋
 
 
-I'm Giulio Lodi and I'm a Software Engineer and Computer Science Graduate at Universita' degli Studi di Milano. 
+I'm Giulio Lodi! I'm a Software Engineer and Computer Science Graduate at Universita' degli Studi di Milano. 
 
 I'm graduating with a **Master Thesis** about **Distributed, Highly-Scalable Streaming Engines for Real-time Anomaly Detection**. My goal is to design a scalable architecture to deploy ML models and detect anomalies in [Marelli](https://www.marelli.com)'s manufacturing lines.
 

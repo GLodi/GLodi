@@ -36,6 +36,7 @@ Full CV on request.
 
 :boy: **About me:**
 
-- 🌱 I’m currently working as a Software Engineer at Artea
-- 🔭 I worked on Real-time Anomaly Detection Architectures in my Master Thesis
+- :boy::boy: I have a [twin brother](https://github.com/nzpaper) that works as a Quantum Algorithms Developer in Germany!
 - :coffee: I love espresso!
+- :cat: I love cats!
+

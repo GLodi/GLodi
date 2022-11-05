@@ -3,7 +3,9 @@
 
 I'm Giulio Lodi! I'm a Software Engineer and Computer Science Graduate at Universita' degli Studi di Milano. 
 
-I'm graduating with a **Master Thesis** about **Distributed, Highly-Scalable Streaming Engines for Real-time Anomaly Detection**. My goal is to design a scalable architecture to deploy ML models and detect anomalies in [Marelli](https://www.marelli.com)'s manufacturing lines.
+I'm working at [Artea](https://www.artea.com/), mainly on distributed indexing clusters for [Marelli](https://www.marelli.com)'s Big Data needs.
+
+At the same time I'm graduating with a **Master Thesis** on **Distributed, Highly-Scalable Streaming Engines for Real-time Anomaly Detection**. My goal is to design a scalable architecture to deploy ML models and detect anomalies in [Marelli](https://www.marelli.com)'s manufacturing lines.
 
 
 My studies are focused on **Distributed Systems** and **Big Data**. I've also spent my uni years studying and developing **Mobile Apps**, mostly Android and Flutter. Check out some of my apps below!

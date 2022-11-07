@@ -3,7 +3,7 @@
 
 I'm Giulio Lodi! I'm a Software Engineer and Computer Science Graduate at Universita' degli Studi di Milano. 
 
-I'm working at [Artea](https://www.artea.com/), mainly on distributed indexing clusters for [Marelli](https://www.marelli.com)'s Big Data needs.
+I work at [Artea](https://www.artea.com/), mainly on distributed indexing clusters for [Marelli](https://www.marelli.com)'s Big Data needs.
 
 At the same time I'm graduating with a **Master Thesis** on **Distributed, Highly-Scalable Streaming Engines for Real-Time Anomaly Detection**. My goal is to design a scalable architecture to deploy ML models and detect anomalies in [Marelli](https://www.marelli.com)'s manufacturing lines.
 

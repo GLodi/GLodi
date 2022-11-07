@@ -16,7 +16,7 @@ Full CV on request.
 
 :computer: **Work Experience:**
  - Software Engineer at [Artea](https://www.artea.com/?lang=en) | June 2022 - Today
- - Backend Developer at [Prex](https://www.prex.it/) | Sep 2020 - June 2022
+ - Backend Developer at [Prex](https://www.prex.it/) - [Doveecomemicuro](https://www.doveecomemicuro.it/) | Sep 2020 - June 2022
 
 
 :mortar_board: **Education:**

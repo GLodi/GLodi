@@ -20,8 +20,8 @@ Full CV on request.
 
 
 :mortar_board: **Education:**
- - Master of Science in Computer Science at `Universita' degli Studi di Milano`
- - Bachelor of Science in Computer Science and Engineering at `Politecnico di Milano`
+ - MSc in Computer Science at `Universita' degli Studi di Milano`
+ - BSc in Computer Science and Engineering at `Politecnico di Milano`
 
 
 :pushpin: **Projects:**

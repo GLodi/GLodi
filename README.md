@@ -27,9 +27,9 @@ Full CV on request.
 :pushpin: **Projects:**
  - :cloud: [nuvola](https://github.com/GLodi/nuvola) - Decentralized Cloud Storage (WIP) - Rust
  - [Distributed Systems Course Final Project](https://github.com/GLodi/Distributed-Systems-Final-Project) - (MSc Project) Virtualized network of delivery drones - Java
- - [justonecanvas](https://github.com/GLodi/justonecanvas) - Reddit's r/place Clone - Go, Typescript
- - [matchymatchy](https://github.com/GLodi/matchymatchy) - Multiplayer Realtime Game - Flutter
- - [GitNav](https://github.com/GLodi/GitNav) - Android GitHub Client - Kotlin
+ - [justonecanvas](https://github.com/GLodi/justonecanvas) - Reddit's r/place clone - Go, Typescript
+ - [matchymatchy](https://github.com/GLodi/matchymatchy) - Multiplayer realtime game - Flutter
+ - [GitNav](https://github.com/GLodi/GitNav) - Android GitHub client - Kotlin
 
 :loudspeaker: **Contacts:**
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-lodi-4a266024b/)

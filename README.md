@@ -25,7 +25,7 @@ Full CV on request.
 
 
 :pushpin: **Projects:**
- - :cloud: [nuvola](https://github.com/GLodi/nuvola) - Decentralized Cloud Storage (WIP) - Rust
+ - :cloud: [nuvola](https://github.com/GLodi/nuvola) - Decentralized cloud storage (WIP) - Rust
  - [Distributed Systems Course Final Project](https://github.com/GLodi/Distributed-Systems-Final-Project) - (MSc Project) Virtualized network of delivery drones - Java
  - [justonecanvas](https://github.com/GLodi/justonecanvas) - Reddit's r/place clone - Go, Typescript
  - [matchymatchy](https://github.com/GLodi/matchymatchy) - Multiplayer realtime game - Flutter

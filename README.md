@@ -1,21 +1,8 @@
 ## Hi there, nice to meet you 👋
 
-
-I'm Giulio Lodi! I'm a Software Engineer and Computer Science Graduate at Universita' degli Studi di Milano. 
-
-I work at [Artea](https://www.artea.com/?lang=en), mainly on distributed indexing clusters for [Marelli](https://www.marelli.com)'s Big Data needs.
-
-At the same time I'm graduating with a **Master Thesis** on **Distributed, Highly-Scalable Streaming Engines for Real-Time Anomaly Detection**. My goal is to design a scalable architecture to allow Data Scientists to deploy ML models and detect anomalies in [Marelli](https://www.marelli.com)'s data.
-
-
-My studies are focused on **Distributed Systems** and **Big Data**. I've also spent my uni years developing **Mobile Apps**, mostly Android and Flutter. Check out some of my apps below!
-
-
-Full CV on request.
-
-
 :computer: **Work Experience:**
- - Software Engineer at [Artea](https://www.artea.com/?lang=en) | June 2022 - Today
+ - Software Engineer at [Volue](https://www.volue.com/) | January 2024 - Today
+ - Software Engineer at [Artea](https://www.artea.com/?lang=en) | June 2022 - December 2023
  - Backend Developer at [Prex](https://www.prex.it/) - [Doveecomemicuro](https://www.doveecomemicuro.it/) | Sep 2020 - June 2022
 
 
